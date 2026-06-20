@@ -89,19 +89,19 @@ Features include:
 
 ### Placement Analysis Dashboard
 
-![Placement Dashboard](Placement%20Analysis%20Dashboard.jpeg)
+![Placement Dashboard](screenshots/Placement%20Analysis%20Dashboard.jpeg)
 
 ---
 
 ### Skill Gap Analysis Dashboard
 
-![Skill Gap Dashboard](Skill_Gap_Analysis%20Dashboard.jpeg)
+![Skill Gap Dashboard](screenshots/Skill_Gap_Analysis%20Dashboard.jpeg)
 
 ---
 
 ### Salary & Career Insight Dashboard
 
-![Salary Dashboard](Salary%20%26%20career%20insight%20Dashboard.jpeg)
+![Salary Dashboard](screenshots/Salary%20%26%20career%20insight%20Dashboard.jpeg)
 
 ---
 
